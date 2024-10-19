@@ -3,7 +3,7 @@ import { fetchApi } from '@libs/fetch';
 import { Plugin } from '@typings/plugin';
 
 class RanobesPlugin implements Plugin.PagePlugin {
-  id = 'ranobes';
+  id = 'ranobescom';
   name = 'Ranobes';
   icon = 'src/en/ranobes/icon.png';
   site = 'https://ranobes.com';
